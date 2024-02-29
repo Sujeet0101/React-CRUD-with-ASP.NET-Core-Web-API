@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\binaya\\Desktop\\React\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|c:\\users\\binaya\\desktop\\react\\crud\\crud\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|c:\\users\\binaya\\desktop\\react\\crud\\crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|c:\\users\\binaya\\desktop\\react\\crud\\crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|c:\\users\\binaya\\desktop\\react\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D1D9035-14C1-45C5-9ADA-B80E3312C2AA}|Crud\\Crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\Models\\Employee.cs",
+              "RelativeToolTip": "Crud\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:40:19.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T03:56:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\appsettings.json",
+              "RelativeToolTip": "Crud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T14:10:00.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Crud\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\binaya\\Desktop\\React\\Crud\\Crud\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Crud\\Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:02:39.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
